@@ -18,5 +18,52 @@
     <ClCompile Include="NextGenPos.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Payment.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ProductCatalog.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ProductDecription.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Store.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Register.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sale.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SalesLineItem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Payment.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ProductCatalog.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobleDefine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ProductDecription.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Store.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Register.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Sale.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SalesLineItem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
